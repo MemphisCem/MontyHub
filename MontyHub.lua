@@ -19,7 +19,7 @@ local v6 = true;
 local v7 = false;
 local v8 = false;
 local v9;
-local v10 = v0:CreateWindow({Title="Memphis Hub",Author="by arreltbcc",Icon="ghost",Size=UDim2.fromOffset(537 - 187, 35 + 215),User={Enabled=true,Anonymous=false,Callback=function()
+local v10 = v0:CreateWindow({Title="Monty Hub",Author="by arreltbcc",Icon="skull",Size=UDim2.fromOffset(537 - 187, 35 + 215),User={Enabled=true,Anonymous=false,Callback=function()
 end}});
 local v11 = v10:Tab({Title="Main",Icon="user"});
 local v12 = v10:Tab({Title="Auto Farm",Icon="leaf"});
